@@ -1,4 +1,4 @@
-# 📦 filoox-bdix - Selected
+# 📦 filoox-bdix - Selected for Bangladesh, Pakistan, and India 
 
 **Auto-updated M3U playlist with selected premium categories**
 
