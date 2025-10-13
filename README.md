@@ -1,4 +1,4 @@
-# 📦 filoox-bdix - Selected Categories IPTV
+# 📦 filoox-bdix - Selected
 
 **Auto-updated M3U playlist with selected premium categories**
 
