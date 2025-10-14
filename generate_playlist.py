@@ -4,13 +4,12 @@ import pytz
 
 # --- CONFIG ---
 BASE_API = os.getenv("XOTT_API_URL")
-PHP_PROXY = "https://maxplay-tv.fun/5on/stream.php"
+PHP_PROXY = "http://v5on.site/token/stream.php"
 HEADERS = {"User-Agent": "Dalvik/2.1.0 (Linux; Android 10)"}
 
 # SELECTED CATEGORIES ONLY
 TARGET_CATEGORY_IDS = {
-    "352", "3", "290", "196", "350", "4", "1016", "558", "340", "349",
-    "377", "313", "198", "90", "14", "104", "675", "319", "891"
+    "1715", "1716", "1718", "1732", "1735", "1736", "1737", "1531","1356"
 }
 
 # --- 1️⃣ Generate new 32-char token ---
