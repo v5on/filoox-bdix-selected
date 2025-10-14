@@ -4,7 +4,7 @@ import pytz
 
 # --- CONFIG ---
 BASE_API = os.getenv("XOTT_API_URL")
-PHP_PROXY = "http://bazario.space/token/stream.php"
+PHP_PROXY = "http://v5on.site/token/stream.php"
 HEADERS = {"User-Agent": "Dalvik/2.1.0 (Linux; Android 10)"}
 
 # SELECTED CATEGORIES ONLY
